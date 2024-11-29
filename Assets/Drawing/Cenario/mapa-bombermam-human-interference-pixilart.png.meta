@@ -1,0 +1,4197 @@
+fileFormatVersion: 2
+guid: b52e5e770118f8a448760077d70ab11d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2cb6a7b4710f64180a03a48d7dd2be
+      internalID: 1485665765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776497feb9b13b341b3f4a26378c4abd
+      internalID: -102492130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d158dc07899a7f4381e13c4ab251174
+      internalID: 471943405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed682d4a87cf5de4985d2fb8e3dc9773
+      internalID: -59783331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b3ddf155281e944acfe089279898d5
+      internalID: 1021656616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ea4a46f7e6c74eabfcd252568141b
+      internalID: 56021868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510ebcbd121a7e498eb85706d5dd721
+      internalID: -295721014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82de7dfeebee82445a6216fea5d0c492
+      internalID: 554199045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f54cb05238e04693cdadff6517034
+      internalID: -923514323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28edb30eb586ec4880ab9a24930f3b1
+      internalID: 1622017843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7cbc6103dbc764587724f5eeecd41e
+      internalID: 706900277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa7147d85c427d4596023a8784ed3e0
+      internalID: -423788912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c696ae1e02ecc29419adc05847ed823f
+      internalID: -705730835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c03530eb2debb419993309bd2ea85f
+      internalID: 27242176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b823a1794b2ff24f96892d47fbb0d31
+      internalID: -1705026384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda122cce6942db49830af5bae85ba91
+      internalID: 297996007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652117fe606db742a3cdf426ec895e9
+      internalID: -1071277075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9209f78a0670044fb75f0c9020e2e3c
+      internalID: -1835236682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002d0abe63995eb4da6d8fd9ffd8bf14
+      internalID: -409656184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8b68ce7712fc41b3d7375f9331e79
+      internalID: 1587750424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b9c4a2ed41eb24e8f80ac2b08d724f
+      internalID: 347071828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247e4fc78c9e47843b85bd21f8dad61d
+      internalID: 105010954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72eba96990acf428aa619b3b7ac150
+      internalID: -583812693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32926692db318a5489c26e23720832e5
+      internalID: 837921797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d84d5ae9878fa4e899859d660e8f0b
+      internalID: 1251785736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeee8e743272404ab5f49aa15bad850
+      internalID: 1499471500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d440426b228684297c766eaad6e386
+      internalID: 1716544629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a316918a38aab8845b23218fb048e83f
+      internalID: -54062109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27739a2d4549344b49ed1cf805c7cf
+      internalID: -1899778141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad3b4ca1928d2448894572198664d9
+      internalID: 1736005812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e998481099da9e44b3034035d797147
+      internalID: -1090203969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a502375df771fd49a3142867ac34ab9
+      internalID: 731592287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261d3ec171b3a264bbe9d25db7e96e65
+      internalID: 949917681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c0399483879c4297bf616d5116226
+      internalID: -90129133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073e1379d442e5b4180d2bf25ea29f65
+      internalID: 1070046237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fa505c93a2827448f8c322c3040c73
+      internalID: -2132635927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2fa97484128af4b9cf28d572350d6e
+      internalID: -967702854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e58932dba80e04584bd5b7debd142c
+      internalID: 804378042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4487729058d3bb549bbd8020210f2239
+      internalID: 1999366182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fb0e2ebb0f8e841841433ccb40fca4
+      internalID: -988913329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95adaa9b2c83a52489e0b3267fa2ecbf
+      internalID: 321648720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd593d58036459438011a45750a2f31
+      internalID: 723684155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b8542e33439d647bbd6cb917278b79
+      internalID: 1661480495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f63cac234cad749b5dffcb30113db9
+      internalID: -2059627888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895029fb9097efc4285426bf947bf5b9
+      internalID: 1084411450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f496d7595d99d7419b0b56b57cc811f
+      internalID: -1789536167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82c456510eaa14bb6633b1e0a20677
+      internalID: -776883984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258aa4bdbdd3ae441bd99a7481da1f7e
+      internalID: 81619332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eda6d2171922e45aeebab420435bb2
+      internalID: -806477872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd977280bb1f24e9a63f10e2735c89
+      internalID: 1902206821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a27a99ccff8c4c4bb22f43d5d0206c5
+      internalID: 748144834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a27e1ce9d765146850108369350a98
+      internalID: 512634382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca67f5f4df2e2843a7ebab8ce95f322
+      internalID: 958567541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f6b15adb9831847a3416a0b097a7b6
+      internalID: -867229937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a92a6992d9d04c9eeaa7153aed022
+      internalID: 295233811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ce4a1a2ecae0f4ab8bbe2f1cc44694
+      internalID: 1777536945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa402718f07fea4c9979d9873a50e1a
+      internalID: 1697561205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8f8cb26ed7ca4c8385d3a443a8fe4
+      internalID: 1818167513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66ee0cdd3ed804408d731ad23c11c58
+      internalID: 904719621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f933d59b6ae9141ba69b9d277aa4bf
+      internalID: -1702046980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_60
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b3147015081c64c9e245b5e72d8f29
+      internalID: 780137234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ee7b512d55794d9b5f176139f735a
+      internalID: 105927387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_62
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cadacab366c4e84b966ab4fafb8cf49
+      internalID: 1670109340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f9f880d5c8074c8947f83a5d66f07
+      internalID: 134398930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2330dfe21a519c8488b05ee98b77d6e2
+      internalID: 1979803587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c51982e8afc714eb132cc73c655493
+      internalID: 754307575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_66
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0685b11a076b262459cb6abd10080737
+      internalID: -935249280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_67
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f165cf61023e01045a64da808a20fff7
+      internalID: -164521822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02e09afdd2f26e42ae7cf6b83219675
+      internalID: 1717737782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9408d73be3ba39488555d263dc5a4bf
+      internalID: -449226402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_70
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28cc184f956bf42b5fa3f385a7d8f0
+      internalID: -1141087508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_71
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff19d865a85d7914790617b5f64c0a81
+      internalID: 1814927205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_72
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aba7f3a69b7544fb44b3036739ea58
+      internalID: 1389669230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae86f9d452d3714186199d8b82044bc
+      internalID: -56830519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_74
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79797b4d5803d343aeac8c6be539cba
+      internalID: 1144218222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_75
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2d4b0f14056ed4f9415fbede568c57
+      internalID: 130857425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_76
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb4dec1e398fa943b1e61a1f5a37899
+      internalID: -1224311508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_77
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72557f768f55f642b6f7ca69656b0a9
+      internalID: 1699305923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_78
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85757f46e0b779e4f8fecd225c96f218
+      internalID: 374277624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_79
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d296fa63c871f948b5038db94d88433
+      internalID: -431055808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_80
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db782e103e82180448d069bc861c5eba
+      internalID: 323707094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cedfb6f4bb18e6438fae0b38a1fee29
+      internalID: 700212254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df157c07efb77f4289941676327a04e
+      internalID: -300841402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_83
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cecc6ef8da2b0439b7da5ddcefee0e
+      internalID: -1763764804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6792dd9a0bbd449a2ca3919e10eef4
+      internalID: 371251388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f227fc56bc323e4f8a990cb40ec4caf
+      internalID: -1640923516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83f0ca6e0047b94c9cb09c61796b3dc
+      internalID: -1154863158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0dbedc736cec54aa06297d3859de68
+      internalID: 834721468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a709a96c96c0dcc48ab0845078d8e329
+      internalID: 185267532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_89
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aaff8b80f5a1c4f8be41ca2c637f9d
+      internalID: 163001166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_90
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13b556c080869a48a426ccfa98d1240
+      internalID: -748924450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_91
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa02f06fe8b70254481f4316b23034af
+      internalID: -84924045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_92
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b20d8088f18f448baa6321e5eb1b9c
+      internalID: -60023629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_93
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8b476282876514c85129b1de87644b
+      internalID: 134327810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_94
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a590476924d1dd49af86ac48223c4cb
+      internalID: -1881794450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ec6549a4bfd05418d82dd655166ba8
+      internalID: 569713588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_96
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8522fe631cdcb4fb1a744f5e4fcda0
+      internalID: 813728811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_97
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946dce21626ee6e4199ece6711e77247
+      internalID: 44727743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_98
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e211829db5d5d3458f4cc8565dfddc1
+      internalID: -943822970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_99
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4281e329f1b3ad54f8b3b48d94cda716
+      internalID: -295651319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_100
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4dba458bb5fa42b02ad83ebec02e8
+      internalID: 1134886112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80508bacad442f54f8b44e48d78cfd1e
+      internalID: -1040162756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_102
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d079933e982134ab19cc1ed4bb031a
+      internalID: -2006672727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_103
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fc5d91b85f5f34785bb463be648397
+      internalID: 2080931468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_104
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e9e85b659b0f42a51201dda9bb081
+      internalID: 2107255315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_105
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387b9fa11e5ff974da1c9cc3a9504cb5
+      internalID: 2106637917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_106
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfae960816364448b9d54b6e4940cfd
+      internalID: 1881250803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_107
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803b79d205e039640a6ec422b8f3fc17
+      internalID: 1982881939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_108
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457bd67e096e7d74690d9ca324e2868c
+      internalID: 336876648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_109
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41251ef1799ae8248a282c7381d828b9
+      internalID: -38965941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbe153aea328bf43856d7b1c47643ea
+      internalID: 463525377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_111
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ebb182dbe1f04fa294c4c11643b87
+      internalID: 1752474792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_112
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1aded3a3ad20c4388ee11c6f44da81
+      internalID: -1480366208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_113
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e4fa22c3e4fe46a11df4bc5e8aa2a
+      internalID: 1712476076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_114
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefd769d349699e43953296f969d25c0
+      internalID: -729673393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853dad218f8d1f54ab21d23bbbcdf9a1
+      internalID: -1002795959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_116
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a46ab2704779b4dba454f1e5ece457
+      internalID: 119965276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_117
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c4afedaf27fa3468975259e32b50de
+      internalID: 2106149051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_118
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50e670ba4c0e140a01ae9a011cdf09
+      internalID: -8566764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_119
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2de61843161b44bd03960b28234c0
+      internalID: 751487975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_120
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670335076dec42744b769b905cbd8dbe
+      internalID: 1642220361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_121
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808bd3d87c5bd25449627c3e800df2a2
+      internalID: 1421332739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_122
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1772670108c15964b9d25869e33ed151
+      internalID: -323035996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_123
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fa40e2635101549b522e3386369cf1
+      internalID: 696803119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_124
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0fb81e9743cbd4eb1e9d681d28a9f2
+      internalID: -2045914348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_125
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ade5e2200ae04eaf1cfd60fae57fd
+      internalID: 644949195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_126
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee4f0b1915cc44faf4c053e15965e2
+      internalID: 573321783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_127
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455da5c7e2f3e5646aa58262e61e59c9
+      internalID: -1565458278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_128
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18353fc0186a94abf9c36f5f5fa378
+      internalID: 543993681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_129
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc60f34848d2da04e9978e0aa0894ef4
+      internalID: -1251908725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_130
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7daba64097112242bd59e681110ea47
+      internalID: 503611276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_131
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155c252738f77b54298d62f13d39f195
+      internalID: 1824896471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_132
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574da8e764f44d3409941450406dba79
+      internalID: -1856949349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_133
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1096126c1c36d41449030f5364638580
+      internalID: -749618194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_134
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa8fa1442b0df64fa91c2d238fe88af
+      internalID: -2076770422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_135
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d88a0dd5f842540831ec318efc985d
+      internalID: 201077397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_136
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f412735dbb803443bab97c19bae30a2
+      internalID: -466870147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_137
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0157e4a8cb388f6429fa27b7584700a6
+      internalID: 2038582163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c6e7e355b86d84ba1bcda691357c57
+      internalID: -106480058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_139
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e09a93eb605af40920777d4303a3a1
+      internalID: -534727936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_140
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c1803e5d5471545a5623681e105f28
+      internalID: -1613411918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_141
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82871122cf25d6b4797dfee7c14dbf1d
+      internalID: -1268725301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_142
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad577e5e541a7de4788e737e2907b86d
+      internalID: 1754636270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_143
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619621b2834967e41add229280b014cd
+      internalID: 1128394123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_144
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912ac39c4f23e7d4b89d71921185f0ee
+      internalID: -1859310865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_145
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5453d0b331580438f185c0b218cd51
+      internalID: -856716071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_146
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c1df963077f094492533902652494e
+      internalID: 828781900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_147
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741635df8bb94254cbddd688bd31f969
+      internalID: -1086408604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_148
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f3228e324b0d64888ff33d3cdb9840
+      internalID: -1762678224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_149
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edac7ccd24be0274eb6f26496a15a242
+      internalID: 937023140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_150
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33dc04a8bcab4748b67bb7c2f2c6f94
+      internalID: 1749041209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_151
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b78d034c8a0ae468d1924d912de860
+      internalID: 903854043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_152
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a24c454a66b5944851dbf84c1156da
+      internalID: -608914122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_153
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826e42ce4bee5ce44a85a6f6b642f673
+      internalID: 1787362147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_154
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea3c641d46e28341bd9ab852988f569
+      internalID: -26416990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_155
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32656457e393ad4eb5e99752d5ca340
+      internalID: 658177029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_156
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ef3b7c5d56e04bbd48ff140202d6d
+      internalID: 1108158400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_157
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275d5797f541b9340b05208f83ad2158
+      internalID: -1806181483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_158
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd676df767a2dfc41961a2431432d3b7
+      internalID: 108712422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_159
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fdc6857b9d5f1478eea93453b3f479
+      internalID: 280441685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_160
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0c2038f2b1b8446a1d6c15d96186d9
+      internalID: 219292886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_161
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119c70e9a43e92e419317eebd35a3447
+      internalID: 1762234575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_162
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e359844c55da43be13c06ac30b1cc
+      internalID: -655847553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_163
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4582d23d170d26c4396cdb21894bc734
+      internalID: -1972502110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_164
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7345a9ac48fb5d344ac8d0ad49dcbc79
+      internalID: -2051406737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_165
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7045f79103565fd47b60709db6f21c0a
+      internalID: 643066003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_166
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be22095fff66f2499d44db5952a3052
+      internalID: 2145258263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_167
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565fcbd1d1ddc5a42836836e2d515edd
+      internalID: -12308380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_168
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddd27b162e3911449773c49d4515f18
+      internalID: 2129676780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_169
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39e36e125a7790499f26de9cdbd3616
+      internalID: -1452024571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_170
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8112505925da224cb86b9e4574d8857
+      internalID: 2125588147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_171
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08974ffbfa5ecf64c9adb81e9ad2bc04
+      internalID: 2146252122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_172
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52dccb8ae9941d45964773319e56212
+      internalID: 2066752078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_173
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c18c2c1d469a45b2650bec3be43c6
+      internalID: 1591720804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_174
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b81c756439e0d24faa4679b9385b47d
+      internalID: 96204083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_175
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff588bd7a03c74db34818eada78549
+      internalID: 1257357036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_176
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b894842c7b8af4292b421188a98b29
+      internalID: 1266559332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_177
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46953c37cf5aa34998d33817fb49d35
+      internalID: 423645310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_178
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf969b8bcf23ee54ca55902459b39a20
+      internalID: -839504711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_179
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c6cd3c0754464984e8b1eb52c98f2
+      internalID: 169295165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_180
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657f911979ab15843be57873629760b3
+      internalID: 323525992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_181
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eb3e73cfc16b34db778e0ea0e06702
+      internalID: -1641530036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_182
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f185fe50985c459045df64aac7dc8
+      internalID: -908424622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_183
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474fa7ff19abe641a9a1392aa953016
+      internalID: -1811608858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa-bombermam-human-interference-pixilart_184
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36b0fceadea5824e8670ea375fe9db7
+      internalID: 1654347636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mapa-bombermam-human-interference-pixilart_0: 1485665765
+      mapa-bombermam-human-interference-pixilart_1: -102492130
+      mapa-bombermam-human-interference-pixilart_10: 706900277
+      mapa-bombermam-human-interference-pixilart_100: 1134886112
+      mapa-bombermam-human-interference-pixilart_101: -1040162756
+      mapa-bombermam-human-interference-pixilart_102: -2006672727
+      mapa-bombermam-human-interference-pixilart_103: 2080931468
+      mapa-bombermam-human-interference-pixilart_104: 2107255315
+      mapa-bombermam-human-interference-pixilart_105: 2106637917
+      mapa-bombermam-human-interference-pixilart_106: 1881250803
+      mapa-bombermam-human-interference-pixilart_107: 1982881939
+      mapa-bombermam-human-interference-pixilart_108: 336876648
+      mapa-bombermam-human-interference-pixilart_109: -38965941
+      mapa-bombermam-human-interference-pixilart_11: -423788912
+      mapa-bombermam-human-interference-pixilart_110: 463525377
+      mapa-bombermam-human-interference-pixilart_111: 1752474792
+      mapa-bombermam-human-interference-pixilart_112: -1480366208
+      mapa-bombermam-human-interference-pixilart_113: 1712476076
+      mapa-bombermam-human-interference-pixilart_114: -729673393
+      mapa-bombermam-human-interference-pixilart_115: -1002795959
+      mapa-bombermam-human-interference-pixilart_116: 119965276
+      mapa-bombermam-human-interference-pixilart_117: 2106149051
+      mapa-bombermam-human-interference-pixilart_118: -8566764
+      mapa-bombermam-human-interference-pixilart_119: 751487975
+      mapa-bombermam-human-interference-pixilart_12: -705730835
+      mapa-bombermam-human-interference-pixilart_120: 1642220361
+      mapa-bombermam-human-interference-pixilart_121: 1421332739
+      mapa-bombermam-human-interference-pixilart_122: -323035996
+      mapa-bombermam-human-interference-pixilart_123: 696803119
+      mapa-bombermam-human-interference-pixilart_124: -2045914348
+      mapa-bombermam-human-interference-pixilart_125: 644949195
+      mapa-bombermam-human-interference-pixilart_126: 573321783
+      mapa-bombermam-human-interference-pixilart_127: -1565458278
+      mapa-bombermam-human-interference-pixilart_128: 543993681
+      mapa-bombermam-human-interference-pixilart_129: -1251908725
+      mapa-bombermam-human-interference-pixilart_13: 27242176
+      mapa-bombermam-human-interference-pixilart_130: 503611276
+      mapa-bombermam-human-interference-pixilart_131: 1824896471
+      mapa-bombermam-human-interference-pixilart_132: -1856949349
+      mapa-bombermam-human-interference-pixilart_133: -749618194
+      mapa-bombermam-human-interference-pixilart_134: -2076770422
+      mapa-bombermam-human-interference-pixilart_135: 201077397
+      mapa-bombermam-human-interference-pixilart_136: -466870147
+      mapa-bombermam-human-interference-pixilart_137: 2038582163
+      mapa-bombermam-human-interference-pixilart_138: -106480058
+      mapa-bombermam-human-interference-pixilart_139: -534727936
+      mapa-bombermam-human-interference-pixilart_14: -1705026384
+      mapa-bombermam-human-interference-pixilart_140: -1613411918
+      mapa-bombermam-human-interference-pixilart_141: -1268725301
+      mapa-bombermam-human-interference-pixilart_142: 1754636270
+      mapa-bombermam-human-interference-pixilart_143: 1128394123
+      mapa-bombermam-human-interference-pixilart_144: -1859310865
+      mapa-bombermam-human-interference-pixilart_145: -856716071
+      mapa-bombermam-human-interference-pixilart_146: 828781900
+      mapa-bombermam-human-interference-pixilart_147: -1086408604
+      mapa-bombermam-human-interference-pixilart_148: -1762678224
+      mapa-bombermam-human-interference-pixilart_149: 937023140
+      mapa-bombermam-human-interference-pixilart_15: 297996007
+      mapa-bombermam-human-interference-pixilart_150: 1749041209
+      mapa-bombermam-human-interference-pixilart_151: 903854043
+      mapa-bombermam-human-interference-pixilart_152: -608914122
+      mapa-bombermam-human-interference-pixilart_153: 1787362147
+      mapa-bombermam-human-interference-pixilart_154: -26416990
+      mapa-bombermam-human-interference-pixilart_155: 658177029
+      mapa-bombermam-human-interference-pixilart_156: 1108158400
+      mapa-bombermam-human-interference-pixilart_157: -1806181483
+      mapa-bombermam-human-interference-pixilart_158: 108712422
+      mapa-bombermam-human-interference-pixilart_159: 280441685
+      mapa-bombermam-human-interference-pixilart_16: -1071277075
+      mapa-bombermam-human-interference-pixilart_160: 219292886
+      mapa-bombermam-human-interference-pixilart_161: 1762234575
+      mapa-bombermam-human-interference-pixilart_162: -655847553
+      mapa-bombermam-human-interference-pixilart_163: -1972502110
+      mapa-bombermam-human-interference-pixilart_164: -2051406737
+      mapa-bombermam-human-interference-pixilart_165: 643066003
+      mapa-bombermam-human-interference-pixilart_166: 2145258263
+      mapa-bombermam-human-interference-pixilart_167: -12308380
+      mapa-bombermam-human-interference-pixilart_168: 2129676780
+      mapa-bombermam-human-interference-pixilart_169: -1452024571
+      mapa-bombermam-human-interference-pixilart_17: -1835236682
+      mapa-bombermam-human-interference-pixilart_170: 2125588147
+      mapa-bombermam-human-interference-pixilart_171: 2146252122
+      mapa-bombermam-human-interference-pixilart_172: 2066752078
+      mapa-bombermam-human-interference-pixilart_173: 1591720804
+      mapa-bombermam-human-interference-pixilart_174: 96204083
+      mapa-bombermam-human-interference-pixilart_175: 1257357036
+      mapa-bombermam-human-interference-pixilart_176: 1266559332
+      mapa-bombermam-human-interference-pixilart_177: 423645310
+      mapa-bombermam-human-interference-pixilart_178: -839504711
+      mapa-bombermam-human-interference-pixilart_179: 169295165
+      mapa-bombermam-human-interference-pixilart_18: -409656184
+      mapa-bombermam-human-interference-pixilart_180: 323525992
+      mapa-bombermam-human-interference-pixilart_181: -1641530036
+      mapa-bombermam-human-interference-pixilart_182: -908424622
+      mapa-bombermam-human-interference-pixilart_183: -1811608858
+      mapa-bombermam-human-interference-pixilart_184: 1654347636
+      mapa-bombermam-human-interference-pixilart_19: 1587750424
+      mapa-bombermam-human-interference-pixilart_2: 471943405
+      mapa-bombermam-human-interference-pixilart_20: 347071828
+      mapa-bombermam-human-interference-pixilart_21: 105010954
+      mapa-bombermam-human-interference-pixilart_22: -583812693
+      mapa-bombermam-human-interference-pixilart_23: 837921797
+      mapa-bombermam-human-interference-pixilart_24: 1251785736
+      mapa-bombermam-human-interference-pixilart_25: 1499471500
+      mapa-bombermam-human-interference-pixilart_26: 1716544629
+      mapa-bombermam-human-interference-pixilart_27: -54062109
+      mapa-bombermam-human-interference-pixilart_28: -1899778141
+      mapa-bombermam-human-interference-pixilart_29: 1736005812
+      mapa-bombermam-human-interference-pixilart_3: -59783331
+      mapa-bombermam-human-interference-pixilart_30: -1090203969
+      mapa-bombermam-human-interference-pixilart_31: 731592287
+      mapa-bombermam-human-interference-pixilart_32: 949917681
+      mapa-bombermam-human-interference-pixilart_33: -90129133
+      mapa-bombermam-human-interference-pixilart_34: 1070046237
+      mapa-bombermam-human-interference-pixilart_35: -2132635927
+      mapa-bombermam-human-interference-pixilart_36: -967702854
+      mapa-bombermam-human-interference-pixilart_37: 804378042
+      mapa-bombermam-human-interference-pixilart_38: 1999366182
+      mapa-bombermam-human-interference-pixilart_39: -988913329
+      mapa-bombermam-human-interference-pixilart_4: 1021656616
+      mapa-bombermam-human-interference-pixilart_40: 321648720
+      mapa-bombermam-human-interference-pixilart_41: 723684155
+      mapa-bombermam-human-interference-pixilart_42: 1661480495
+      mapa-bombermam-human-interference-pixilart_43: -2059627888
+      mapa-bombermam-human-interference-pixilart_44: 1084411450
+      mapa-bombermam-human-interference-pixilart_45: -1789536167
+      mapa-bombermam-human-interference-pixilart_46: -776883984
+      mapa-bombermam-human-interference-pixilart_47: 81619332
+      mapa-bombermam-human-interference-pixilart_48: -806477872
+      mapa-bombermam-human-interference-pixilart_49: 1902206821
+      mapa-bombermam-human-interference-pixilart_5: 56021868
+      mapa-bombermam-human-interference-pixilart_50: 748144834
+      mapa-bombermam-human-interference-pixilart_51: 512634382
+      mapa-bombermam-human-interference-pixilart_52: 958567541
+      mapa-bombermam-human-interference-pixilart_53: -867229937
+      mapa-bombermam-human-interference-pixilart_54: 295233811
+      mapa-bombermam-human-interference-pixilart_55: 1777536945
+      mapa-bombermam-human-interference-pixilart_56: 1697561205
+      mapa-bombermam-human-interference-pixilart_57: 1818167513
+      mapa-bombermam-human-interference-pixilart_58: 904719621
+      mapa-bombermam-human-interference-pixilart_59: -1702046980
+      mapa-bombermam-human-interference-pixilart_6: -295721014
+      mapa-bombermam-human-interference-pixilart_60: 780137234
+      mapa-bombermam-human-interference-pixilart_61: 105927387
+      mapa-bombermam-human-interference-pixilart_62: 1670109340
+      mapa-bombermam-human-interference-pixilart_63: 134398930
+      mapa-bombermam-human-interference-pixilart_64: 1979803587
+      mapa-bombermam-human-interference-pixilart_65: 754307575
+      mapa-bombermam-human-interference-pixilart_66: -935249280
+      mapa-bombermam-human-interference-pixilart_67: -164521822
+      mapa-bombermam-human-interference-pixilart_68: 1717737782
+      mapa-bombermam-human-interference-pixilart_69: -449226402
+      mapa-bombermam-human-interference-pixilart_7: 554199045
+      mapa-bombermam-human-interference-pixilart_70: -1141087508
+      mapa-bombermam-human-interference-pixilart_71: 1814927205
+      mapa-bombermam-human-interference-pixilart_72: 1389669230
+      mapa-bombermam-human-interference-pixilart_73: -56830519
+      mapa-bombermam-human-interference-pixilart_74: 1144218222
+      mapa-bombermam-human-interference-pixilart_75: 130857425
+      mapa-bombermam-human-interference-pixilart_76: -1224311508
+      mapa-bombermam-human-interference-pixilart_77: 1699305923
+      mapa-bombermam-human-interference-pixilart_78: 374277624
+      mapa-bombermam-human-interference-pixilart_79: -431055808
+      mapa-bombermam-human-interference-pixilart_8: -923514323
+      mapa-bombermam-human-interference-pixilart_80: 323707094
+      mapa-bombermam-human-interference-pixilart_81: 700212254
+      mapa-bombermam-human-interference-pixilart_82: -300841402
+      mapa-bombermam-human-interference-pixilart_83: -1763764804
+      mapa-bombermam-human-interference-pixilart_84: 371251388
+      mapa-bombermam-human-interference-pixilart_85: -1640923516
+      mapa-bombermam-human-interference-pixilart_86: -1154863158
+      mapa-bombermam-human-interference-pixilart_87: 834721468
+      mapa-bombermam-human-interference-pixilart_88: 185267532
+      mapa-bombermam-human-interference-pixilart_89: 163001166
+      mapa-bombermam-human-interference-pixilart_9: 1622017843
+      mapa-bombermam-human-interference-pixilart_90: -748924450
+      mapa-bombermam-human-interference-pixilart_91: -84924045
+      mapa-bombermam-human-interference-pixilart_92: -60023629
+      mapa-bombermam-human-interference-pixilart_93: 134327810
+      mapa-bombermam-human-interference-pixilart_94: -1881794450
+      mapa-bombermam-human-interference-pixilart_95: 569713588
+      mapa-bombermam-human-interference-pixilart_96: 813728811
+      mapa-bombermam-human-interference-pixilart_97: 44727743
+      mapa-bombermam-human-interference-pixilart_98: -943822970
+      mapa-bombermam-human-interference-pixilart_99: -295651319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

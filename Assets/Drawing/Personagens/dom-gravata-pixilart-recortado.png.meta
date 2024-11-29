@@ -1,0 +1,1161 @@
+fileFormatVersion: 2
+guid: 4b2bee32a2559a04ea3f1f7f11f83845
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0dac91e19c5a24199f018436ed79f5
+      internalID: -1985103148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 219.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360dfda7a47219e4d993a602b4f055b2
+      internalID: 1213069999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 219.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3b760b28d220f489b682b6d773e2ae
+      internalID: 1267443308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 219.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b55c5ecc168940bebf57ae70d2e12
+      internalID: -1657127715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 219.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a966614af083e784a83c42d993e71644
+      internalID: -948118994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 219.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a81586d4fa64f4d886ab5160235ce5
+      internalID: -934562290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 219.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f615681886c864cad0f9491b628aa8
+      internalID: 1000806254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 219.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d13a08af7ee104a8819c906d5619fd
+      internalID: -749085949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1f488bc739eb4f9d3e97efb03b7a9
+      internalID: 1167343413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 176.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47ae9491472a1a42924a5275b2de4a3
+      internalID: 1359172016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 176.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10acde425d6f181478a1c8c8762753be
+      internalID: -1402560492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 176.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa177d92ab495438ace02a081e04ae
+      internalID: 68889877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 176.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c38cebff1872b42b01d42702378b34
+      internalID: 38577931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 176.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e4b01d097b4c740abafb1c7b712a89
+      internalID: -2033784354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 176.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a55b2351dd0c4fbbe8108f4bbb8b9
+      internalID: -1021575537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 176.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0148304f7c2ac42ad59ccff3ea0fbc
+      internalID: -2068967026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f459a5114eb30f43bce6beae7790220
+      internalID: 653885120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 133.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e66a5e9c7b6c84a8e24d08e09c5757
+      internalID: -2080571592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 133.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7553a4680cf1ad44bc285dc3c1a1f98
+      internalID: -734124586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 133.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31292b0f34ffd5740ba986d2a43d6548
+      internalID: 1000127054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 133.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d3dd57dcd72e49bb2a5abe31d41da
+      internalID: 2054149132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 133.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2e63c20810b1d4c839dc2aed662fdc
+      internalID: 1528037702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 133.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd4cf99a7b8784d84f05c0bae66b9e
+      internalID: -1188851297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 133.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ffd62d4470a924d93fa240864c15ee
+      internalID: -183285105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab969d3b62706740a6c2f9dd756b7e9
+      internalID: -347218317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 90.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4872d102ce836c44a8fb5210cb356e1d
+      internalID: -634963722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 90.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b3c7a2f4b04744890fde485d9fb8c
+      internalID: -1177473092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 90.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4287bec9915670429af4be0e11aad4b
+      internalID: -807529495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 90.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b114417228ad35b419c75ab82426aea0
+      internalID: 2094372554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 90.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfe95251bd79b64cbfdfdb373b2f27c
+      internalID: 2061605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 90.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508fddc7fa5f2ba4bb93e72a2bfd4200
+      internalID: 1328589179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 90.16667
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af28fe076e3cc34190ed552ff2128d4
+      internalID: -1432871701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be273686ba1e4e4899ff1ad5aba639a
+      internalID: -1694023610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 47.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3c4a47fb47b64caec50ab9fff2edc
+      internalID: -1915726890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 47.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b2a8f2210a9e43a03709a83052b01
+      internalID: 87024501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 47.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea333075ed04c34a92d225f67446e12
+      internalID: 937548737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 47.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca6921190911684eac2679a11f1f52a
+      internalID: -168354913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a9226464da2ac4f98c6a7bb23277ad
+      internalID: 5402532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 47.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58187856a5e4c74cb674daaba72fec5
+      internalID: 1921374792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_39
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 47.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba79c33e455fbf48b566c8324098cdc
+      internalID: 1405589863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845837f492cfe843b9b0f75337e2da4
+      internalID: -1139806140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef60041d861fbf4ca91c49da7c9744c
+      internalID: 1008469377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f372094ac6fe84c8f7aef074b5114c
+      internalID: 1380404938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e859aa9e7bdde94d8a40533f26f4a5b
+      internalID: 1572358602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316207e8706c83e43a305805eb0dd1cd
+      internalID: 504037065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c820900d13ca2b4c837de08970f5d4d
+      internalID: 191313045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dom-gravata-pixilart-recortado_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4.166668
+        width: 26
+        height: 43.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd510e260851e1e4f920794fbf53c6fd
+      internalID: -529905177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dom-gravata-pixilart-recortado_0: -1985103148
+      dom-gravata-pixilart-recortado_1: 1213069999
+      dom-gravata-pixilart-recortado_10: -1402560492
+      dom-gravata-pixilart-recortado_11: 68889877
+      dom-gravata-pixilart-recortado_12: 38577931
+      dom-gravata-pixilart-recortado_13: -2033784354
+      dom-gravata-pixilart-recortado_14: -1021575537
+      dom-gravata-pixilart-recortado_15: -2068967026
+      dom-gravata-pixilart-recortado_16: 653885120
+      dom-gravata-pixilart-recortado_17: -2080571592
+      dom-gravata-pixilart-recortado_18: -734124586
+      dom-gravata-pixilart-recortado_19: 1000127054
+      dom-gravata-pixilart-recortado_2: 1267443308
+      dom-gravata-pixilart-recortado_20: 2054149132
+      dom-gravata-pixilart-recortado_21: 1528037702
+      dom-gravata-pixilart-recortado_22: -1188851297
+      dom-gravata-pixilart-recortado_23: -183285105
+      dom-gravata-pixilart-recortado_24: -347218317
+      dom-gravata-pixilart-recortado_25: -634963722
+      dom-gravata-pixilart-recortado_26: -1177473092
+      dom-gravata-pixilart-recortado_27: -807529495
+      dom-gravata-pixilart-recortado_28: 2094372554
+      dom-gravata-pixilart-recortado_29: 2061605
+      dom-gravata-pixilart-recortado_3: -1657127715
+      dom-gravata-pixilart-recortado_30: 1328589179
+      dom-gravata-pixilart-recortado_31: -1432871701
+      dom-gravata-pixilart-recortado_32: -1694023610
+      dom-gravata-pixilart-recortado_33: -1915726890
+      dom-gravata-pixilart-recortado_34: 87024501
+      dom-gravata-pixilart-recortado_35: 937548737
+      dom-gravata-pixilart-recortado_36: -168354913
+      dom-gravata-pixilart-recortado_37: 5402532
+      dom-gravata-pixilart-recortado_38: 1921374792
+      dom-gravata-pixilart-recortado_39: 1405589863
+      dom-gravata-pixilart-recortado_4: -948118994
+      dom-gravata-pixilart-recortado_40: -1139806140
+      dom-gravata-pixilart-recortado_41: 1008469377
+      dom-gravata-pixilart-recortado_42: 1380404938
+      dom-gravata-pixilart-recortado_43: 1572358602
+      dom-gravata-pixilart-recortado_44: 504037065
+      dom-gravata-pixilart-recortado_45: 191313045
+      dom-gravata-pixilart-recortado_46: -529905177
+      dom-gravata-pixilart-recortado_5: -934562290
+      dom-gravata-pixilart-recortado_6: 1000806254
+      dom-gravata-pixilart-recortado_7: -749085949
+      dom-gravata-pixilart-recortado_8: 1167343413
+      dom-gravata-pixilart-recortado_9: 1359172016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
