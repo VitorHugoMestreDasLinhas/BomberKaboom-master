@@ -9,11 +9,11 @@ public class JoystickMove : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 direcao = Vector2.down;
 
-    public AnimateSpriteRender spriteRendererUp;
-    public AnimateSpriteRender spriteRendererDown;
-    public AnimateSpriteRender spriteRendererLeft;
-    public AnimateSpriteRender spriteRendererRight;
-    private AnimateSpriteRender activespriteRenderer;
+    public AnimatedSpriteRender spriteRendererUp;
+    public AnimatedSpriteRender spriteRendererDown;
+    public AnimatedSpriteRender spriteRendererLeft;
+    public AnimatedSpriteRender spriteRendererRight;
+    private AnimatedSpriteRender activespriteRenderer;
 
     public void Start()
     {
@@ -74,7 +74,7 @@ public class JoystickMove : MonoBehaviour
         Debug.Log("Direção: " + direcao);
     }
 
-    public void setDirecao(Vector2 novaDirecao, AnimateSpriteRender spriteRenderer)
+    public void setDirecao(Vector2 novaDirecao, AnimatedSpriteRender spriteRenderer)
     {
         direcao = novaDirecao;
 
