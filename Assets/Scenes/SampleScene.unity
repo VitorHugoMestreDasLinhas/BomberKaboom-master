@@ -5404,6 +5404,10 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8908369955506370976, guid: 476265453316f2041952146b2e2298fe, type: 3}
+      propertyPath: idleSprite
+      value: 
+      objectReference: {fileID: 1902772470, guid: 7866b5830ea482f4084566f64988ef9f, type: 3}
+    - target: {fileID: 8908369955506370976, guid: 476265453316f2041952146b2e2298fe, type: 3}
       propertyPath: animationSprites.Array.data[0]
       value: 
       objectReference: {fileID: 1902772470, guid: 7866b5830ea482f4084566f64988ef9f, type: 3}
