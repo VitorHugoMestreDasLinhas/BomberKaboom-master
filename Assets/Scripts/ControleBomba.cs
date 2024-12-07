@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Tilemaps;
 
 public class NewBehaviourScript : MonoBehaviour
 {   
@@ -16,6 +17,9 @@ public class NewBehaviourScript : MonoBehaviour
     public Explosion explosionPrefab;
     public float explosionDuration = 1f;
     public int explosionRadius = 1;
+    [Header("Destructible")]
+    public Tilemap destructibleTiles;
+    public Destructible destructiblePrefab;
 
     private void Start()
     {
@@ -43,9 +47,11 @@ public class NewBehaviourScript : MonoBehaviour
 
     private IEnumerator PlaceBomb()
     {
-        Vector2 posicao = transform.position; 
-        posicao.x = Mathf.Round(posicao.x);
-        posicao.y = Mathf.Round(posicao.y);
+        Vector2 posicao = transform.position;
+        float cellSize = 1f; // Tamanho da célula do grid
+        posicao.x = Mathf.Round(posicao.x / cellSize) * cellSize;
+        posicao.y = Mathf.Round(posicao.y / cellSize) * cellSize;
+
 
         if (bombPrefab != null)
         {
@@ -54,8 +60,10 @@ public class NewBehaviourScript : MonoBehaviour
             yield return new WaitForSeconds(tempoParaExplosao);
             
             posicao = bomba.transform.position;
-            posicao.x = Mathf.Round(posicao.x);
-            posicao.y = Mathf.Round(posicao.y);
+            float cellSize2 = 1f; // Tamanho da célula do grid
+            posicao.x = Mathf.Round(posicao.x / cellSize) * cellSize;
+            posicao.y = Mathf.Round(posicao.y / cellSize) * cellSize;
+
 
             Debug.Log("Instanciando explosão na posição: " + posicao);
 
@@ -96,6 +104,7 @@ public class NewBehaviourScript : MonoBehaviour
        
         if(Physics2D.OverlapBox(position, Vector2.one /2f, 0f, explosionLayerMask))
         {
+            ClearDestructible(position);
             return;
         }
             Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
@@ -106,4 +115,19 @@ public class NewBehaviourScript : MonoBehaviour
             Explode(position, direction, length - 1);
         
     }
+
+    private void ClearDestructible(Vector2 position)
+    {
+        Vector3Int cell = destructibleTiles.WorldToCell(position);
+        TileBase tile = destructibleTiles.GetTile(cell);
+
+
+        if (tile != null)
+        {
+            Instantiate(destructiblePrefab, position, Quaternion.identity);
+            destructibleTiles.SetTile(cell, null);
+        }
+    }
+
+    
 }
