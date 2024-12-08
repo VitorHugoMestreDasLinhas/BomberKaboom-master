@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e8d1729bdb60eca40bf07041883850da
+guid: 3b3ea568e02d62d4e979099c1fc62a47
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -108,7 +108,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: icones-bombermam-pixilart - Recortado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20.666666
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc0496ffe3a714c8ba63d96a45d980
+      internalID: -1998748783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones-bombermam-pixilart - Recortado_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20.666666
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad4c4d53729f8439a29d68d104188d
+      internalID: 2072135012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones-bombermam-pixilart - Recortado_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 20.666666
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a5a89bece4cc4890675f6868297d0
+      internalID: 435993032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +182,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icones-bombermam-pixilart - Recortado_0: -1998748783
+      icones-bombermam-pixilart - Recortado_1: 2072135012
+      icones-bombermam-pixilart - Recortado_2: 435993032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

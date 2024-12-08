@@ -5,36 +5,43 @@ using UnityEngine.UI;
 using UnityEngine.Tilemaps;
 
 public class NewBehaviourScript : MonoBehaviour
-{   
+{
     [Header("Bomba")]
-    public GameObject bombPrefab;  
+    public GameObject bombPrefab;
     public int quantidadeBomba = 1;
-    public int bombasRestantes; 
-    public Button botaoBomba; 
+    public int bombasRestantes;
+    public Button botaoBomba;
     public float tempoParaExplosao = 2f;
     public LayerMask explosionLayerMask;
-    [Header("Explosao")]
+
+    [Header("Explosão")]
     public Explosion explosionPrefab;
     public float explosionDuration = 1f;
     public int explosionRadius = 1;
+
     [Header("Destructible")]
     public Tilemap destructibleTiles;
     public Destructible destructiblePrefab;
 
     private void Start()
     {
-        Debug.Log("NewBehaviourScript Start() chamado"); // Adicionado para debug
-        botaoBomba.onClick.AddListener(DropBomb);
+        if (botaoBomba != null)
+        {
+            botaoBomba.onClick.AddListener(DropBomb);
+        }
+        else
+        {
+            Debug.LogWarning("botaoBomba não foi atribuído no Inspector.");
+        }
     }
 
-    private void OnEnable() 
-    { 
+    private void OnEnable()
+    {
         bombasRestantes = quantidadeBomba;
     }
 
     public void DropBomb()
     {
-        Debug.Log("DropBomb() chamado"); // Adicionado para debug
         if (bombasRestantes > 0)
         {
             StartCoroutine(PlaceBomb());
@@ -52,18 +59,11 @@ public class NewBehaviourScript : MonoBehaviour
         posicao.x = Mathf.Round(posicao.x / cellSize) * cellSize;
         posicao.y = Mathf.Round(posicao.y / cellSize) * cellSize;
 
-
         if (bombPrefab != null)
         {
             GameObject bomba = Instantiate(bombPrefab, posicao, Quaternion.identity);
             bombasRestantes--;
             yield return new WaitForSeconds(tempoParaExplosao);
-            
-            posicao = bomba.transform.position;
-            float cellSize2 = 1f; // Tamanho da célula do grid
-            posicao.x = Mathf.Round(posicao.x / cellSize) * cellSize;
-            posicao.y = Mathf.Round(posicao.y / cellSize) * cellSize;
-
 
             Debug.Log("Instanciando explosão na posição: " + posicao);
 
@@ -71,7 +71,6 @@ public class NewBehaviourScript : MonoBehaviour
             {
                 Explosion explosion = Instantiate(explosionPrefab, posicao, Quaternion.identity);
                 explosion.SetActiveRenderer(explosion.start);
-                explosion.SetDirection(Vector2.up); // Adicionei chamada para teste
                 Destroy(explosion.gameObject, explosionDuration);
 
                 Explode(posicao, Vector2.up, explosionRadius);
@@ -99,28 +98,30 @@ public class NewBehaviourScript : MonoBehaviour
         {
             return;
         }
-        
+
         position += direction;
-       
-        if(Physics2D.OverlapBox(position, Vector2.one /2f, 0f, explosionLayerMask))
+
+        if (Physics2D.OverlapBox(position, Vector2.one / 2f, 0f, explosionLayerMask))
         {
             ClearDestructible(position);
             return;
         }
+
+        if (explosionPrefab != null)
+        {
             Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
             explosion.SetActiveRenderer(length > 1 ? explosion.middle : explosion.end);
             explosion.SetDirection(direction);
             Destroy(explosion.gameObject, explosionDuration);
 
             Explode(position, direction, length - 1);
-        
+        }
     }
 
     private void ClearDestructible(Vector2 position)
     {
         Vector3Int cell = destructibleTiles.WorldToCell(position);
         TileBase tile = destructibleTiles.GetTile(cell);
-
 
         if (tile != null)
         {
@@ -129,5 +130,20 @@ public class NewBehaviourScript : MonoBehaviour
         }
     }
 
-    
+    public void AddBomb()
+    {
+        // Incrementa a quantidade de bombas restantes
+        bombasRestantes++;
+
+        // Incrementa a quantidade máxima de bombas
+        quantidadeBomba++;
+
+        // Opcional: Atualize o botão se necessário (exemplo, texto ou estado)
+        if (botaoBomba != null)
+        {
+            botaoBomba.interactable = bombasRestantes > 0; // Habilitar ou desabilitar o botão com base na quantidade de bombas
+        }
+
+        Debug.Log("Bombas adicionadas. Total: " + bombasRestantes);
+    }
 }
