@@ -13,6 +13,7 @@ public class JoystickMove : MonoBehaviour
     public AnimatedSpriteRender spriteRendererDown;
     public AnimatedSpriteRender spriteRendererLeft;
     public AnimatedSpriteRender spriteRendererRight;
+    public AnimatedSpriteRender spriteRendererDeath;
     private AnimatedSpriteRender activespriteRenderer;
 
     public void Start()
@@ -86,5 +87,32 @@ public class JoystickMove : MonoBehaviour
         activespriteRenderer = spriteRenderer;
         activespriteRenderer.idle = direcao == Vector2.zero;
 
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
+        {
+            DeathSequence();
+        }
+    }
+
+    public void DeathSequence()
+    {
+        enabled = false;
+        //GetComponent<BombController>().enabled = false; Não ta achando//
+
+        spriteRendererUp.enabled = false;
+        spriteRendererDown.enabled = false;
+        spriteRendererLeft.enabled = false;
+        spriteRendererRight.enabled = false;
+        spriteRendererDeath.enabled = true;
+
+        Invoke(nameof(OnDeathSequenceEnded), 1.25f);
+    }
+
+    private void OnDeathSequenceEnded()
+    {
+        gameObject.SetActive(false);
     }
 }
