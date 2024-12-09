@@ -91,16 +91,22 @@ public class JoystickMove : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log("OnTriggerEnter2D chamado. Colidiu com: " + other.gameObject.name);
+
         if (other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
         {
+            Debug.Log("Colisão com camada Explosion detectada!");
             DeathSequence();
         }
     }
 
+
+
+
     public void DeathSequence()
     {
         enabled = false;
-        //GetComponent<BombController>().enabled = false; Não ta achando//
+        GetComponent<NewBehaviourScript>().enabled = false; 
 
         spriteRendererUp.enabled = false;
         spriteRendererDown.enabled = false;

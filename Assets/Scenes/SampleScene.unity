@@ -235,7 +235,7 @@ GameObject:
   - component: {fileID: 91672921}
   - component: {fileID: 91672920}
   - component: {fileID: 91672919}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -264,8 +264,8 @@ MonoBehaviour:
   - {fileID: 1799005298, guid: 56f54eed530b33a4d9b3f3dd5a25c027, type: 3}
   - {fileID: 1678282576, guid: 56f54eed530b33a4d9b3f3dd5a25c027, type: 3}
   animationTime: 0.1666667
-  loop: 1
-  idle: 1
+  loop: 0
+  idle: 0
 --- !u!212 &91672920
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3154,7 +3154,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   explosionPrefab: {fileID: 1851319691}
-  explosionDuration: 2
+  explosionDuration: 1
   explosionRadius: 1
   destructibleTiles: {fileID: 1424357493}
   destructiblePrefab: {fileID: 2890989297807445095, guid: 96193b8cc6a55254ba574cb9230bd363, type: 3}
@@ -5574,7 +5574,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2308778650038972581, guid: 476265453316f2041952146b2e2298fe, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2825753310346746753, guid: 476265453316f2041952146b2e2298fe, type: 3}
       propertyPath: m_LocalScale.x
@@ -5590,11 +5590,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4977082615868726403, guid: 476265453316f2041952146b2e2298fe, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 5311372577962316055, guid: 476265453316f2041952146b2e2298fe, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6112405788057753312, guid: 476265453316f2041952146b2e2298fe, type: 3}
       propertyPath: m_Name
@@ -5602,7 +5602,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6112405788057753312, guid: 476265453316f2041952146b2e2298fe, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6817745673739414772, guid: 476265453316f2041952146b2e2298fe, type: 3}
       propertyPath: m_Size.x
