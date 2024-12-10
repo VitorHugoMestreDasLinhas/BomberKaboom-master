@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement; // Necessário para reiniciar a cena
 
 public class JoystickMove : MonoBehaviour
 {
-    public Joystick mj; 
+    public Joystick mj;
     public float velocidade;
     private Rigidbody2D rb;
     private Vector2 direcao = Vector2.down;
@@ -46,8 +47,6 @@ public class JoystickMove : MonoBehaviour
             Debug.Log("Parado");
         }
     }
-
-
 
     public void Atualiza() // esse método verifica qual distância é maior, com base nisso realiza o movimento 
     {
@@ -100,13 +99,21 @@ public class JoystickMove : MonoBehaviour
         }
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("OnCollisionEnter2D chamado. Colidiu com: " + collision.gameObject.name);
 
-
+        if (collision.gameObject.CompareTag("Player")) // Certifique-se de que os monstros têm a tag "Monster"
+        {
+            Debug.Log("Colisão com monstro detectada! O jogador morreu.");
+            DeathSequence(); // Chama a sequência de morte do jogador
+        }
+    }
 
     public void DeathSequence()
     {
         enabled = false;
-        GetComponent<NewBehaviourScript>().enabled = false; 
+        GetComponent<NewBehaviourScript>().enabled = false;
 
         spriteRendererUp.enabled = false;
         spriteRendererDown.enabled = false;
@@ -114,11 +121,11 @@ public class JoystickMove : MonoBehaviour
         spriteRendererRight.enabled = false;
         spriteRendererDeath.enabled = true;
 
-        Invoke(nameof(OnDeathSequenceEnded), 1.25f);
+        Invoke(nameof(ReloadScene), 1.25f); // Reinicia a cena após 1,25 segundos
     }
 
-    private void OnDeathSequenceEnded()
+    private void ReloadScene()
     {
-        gameObject.SetActive(false);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); // Reinicia a cena atual
     }
 }

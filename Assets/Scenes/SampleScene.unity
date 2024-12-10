@@ -305,7 +305,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -662,7 +662,7 @@ GameObject:
   - component: {fileID: 276354774}
   - component: {fileID: 276354773}
   - component: {fileID: 276354772}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3660,7 +3660,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mj: {fileID: 8292006463780946942}
-  velocidade: 10
+  velocidade: 6
   spriteRendererUp: {fileID: 863914683}
   spriteRendererDown: {fileID: 706337991}
   spriteRendererLeft: {fileID: 1398293019}
@@ -3921,7 +3921,7 @@ GameObject:
   - component: {fileID: 640304325}
   - component: {fileID: 640304324}
   - component: {fileID: 640304323}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4802,6 +4802,37 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 936470311}
   m_CullTransparentMesh: 1
+--- !u!1 &996673649
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 996673650}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &996673650
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 996673649}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.05569035, y: -1.082556, z: 0.025847346}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1127174527
 GameObject:
   m_ObjectHideFlags: 0
@@ -7540,7 +7571,7 @@ GameObject:
   - component: {fileID: 2137367172}
   - component: {fileID: 2137367171}
   - component: {fileID: 2137367170}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7921,3 +7952,4 @@ SceneRoots:
   - {fileID: 1143361522}
   - {fileID: 1698677162}
   - {fileID: 1353975698}
+  - {fileID: 996673650}
