@@ -22,6 +22,7 @@ public class NewBehaviourScript : MonoBehaviour
     [Header("Destructible")]
     public Tilemap destructibleTiles;
     public Destructible destructiblePrefab;
+    internal bool hasFireExtinguisher;
 
     private void Start()
     {
