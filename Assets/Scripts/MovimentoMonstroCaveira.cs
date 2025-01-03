@@ -2,9 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovimentoMonstro : MonoBehaviour
+public class MovimentoMonstroCaveira : MonoBehaviour
 {
-    public float velocidade;
+    public float velocidade = 4f;
+    public float raioDeteccao = 5f; // Raio de detecção para perseguir o jogador
+    public Transform jogador; // Referência ao jogador
+
     private Rigidbody2D rb;
     private Vector2 direcao = Vector2.down;
 
@@ -15,27 +18,46 @@ public class MovimentoMonstro : MonoBehaviour
     public AnimatedSpriteRender spriteRendererDeath;
     private AnimatedSpriteRender activespriteRenderer;
 
-    private float tempoTrocaDirecao = 0.5f; // Troca de direção a cada 1 segundos
+    private float tempoTrocaDirecao = 1f; // Troca de direção a cada 1 segundo
     private float tempoAtualTroca = 0f;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         activespriteRenderer = spriteRendererDown;
-        Debug.Log("Monstro inicializado");
+        Debug.Log("Monstro Caveira inicializado");
     }
 
     private void FixedUpdate()
     {
-        Mover();
+        // Verifica se o jogador está dentro do raio de detecção
+        if (jogador != null && Vector2.Distance(transform.position, jogador.position) <= raioDeteccao)
+        {
+            PerseguirJogador();
+        }
+        else
+        {
+            MovimentoAleatorio();
+        }
 
+        Mover();
+    }
+
+    private void MovimentoAleatorio()
+    {
         // Incrementa o tempo desde a última troca de direção
         tempoAtualTroca += Time.fixedDeltaTime;
         if (tempoAtualTroca >= tempoTrocaDirecao)
         {
-            MudarDirecao(); // Muda a direção aleatoriamente a cada 2 segundos
+            MudarDirecao(); // Muda a direção aleatoriamente a cada 1 segundo
             tempoAtualTroca = 0f;
         }
+    }
+
+    private void PerseguirJogador()
+    {
+        // Define a direção para perseguir o jogador
+        direcao = (jogador.position - transform.position).normalized;
     }
 
     private void Mover()
@@ -92,12 +114,6 @@ public class MovimentoMonstro : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("Colidiu com: " + other.gameObject.name);
-
-        if (other.gameObject.layer == LayerMask.NameToLayer("Obstaculo"))
-        {
-            Debug.Log("Colisão com obstáculo detectada. Mudando direção!");
-            MudarDirecao();
-        }
 
         if (other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
         {
