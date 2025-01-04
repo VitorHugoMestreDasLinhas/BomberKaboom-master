@@ -17,14 +17,18 @@ public class JoystickMove : MonoBehaviour
     public AnimatedSpriteRender spriteRendererDeath;
     private AnimatedSpriteRender activespriteRenderer;
 
-    public void Start()
+    private int contadorDeMonstros; // Contador de monstros na cena
+    private List<GameObject> monstrosNaCena = new List<GameObject>(); // Lista de monstros
+
+    void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         activespriteRenderer = spriteRendererDown;
+        StartCoroutine(ContarMonstros()); // Inicia o contador de monstros
         Debug.Log("Script Inicializado");
     }
 
-    public void FixedUpdate()
+    void FixedUpdate()
     {
         if (mj.Direction != Vector2.zero)
         {
@@ -85,7 +89,6 @@ public class JoystickMove : MonoBehaviour
 
         activespriteRenderer = spriteRenderer;
         activespriteRenderer.idle = direcao == Vector2.zero;
-
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -127,5 +130,47 @@ public class JoystickMove : MonoBehaviour
     private void ReloadScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); // Reinicia a cena atual
+    }
+
+    // Coroutine para contar os monstros a cada segundo
+    private IEnumerator ContarMonstros()
+    {
+        while (true)
+        {
+            ContarMonstrosNaCena(); // Conta os monstros na cena
+            yield return new WaitForSeconds(1f); // Espera 1 segundo antes de atualizar novamente
+        }
+    }
+
+    // Contar monstros na cena
+    private void ContarMonstrosNaCena()
+    {
+        // Encontra todos os objetos com a tag "Player" (monstros também têm a tag "Player")
+        GameObject[] todosJogadores = GameObject.FindGameObjectsWithTag("Player");
+
+        // Se só restar o próprio jogador, significa que todos os monstros foram mortos
+        if (todosJogadores.Length == 1)
+        {
+            Debug.Log("Todos os monstros foram mortos. Avançando para a próxima fase...");
+            AvancarParaProximaFase(); // Função para avançar de fase
+        }
+
+        contadorDeMonstros = todosJogadores.Length; // Atualiza o contador
+        Debug.Log("Número de objetos 'Player' na cena (incluindo o jogador): " + contadorDeMonstros);
+    }
+
+    // Função para avançar para a próxima fase
+    private void AvancarParaProximaFase()
+    {
+        // Carregar a próxima cena ou reiniciar a atual, se desejar.
+        int proximaCena = SceneManager.GetActiveScene().buildIndex + 1;
+        if (SceneManager.sceneCountInBuildSettings > proximaCena)
+        {
+            SceneManager.LoadScene(proximaCena); // Carrega a próxima cena
+        }
+        else
+        {
+            Debug.Log("Última fase alcançada!");
+        }
     }
 }

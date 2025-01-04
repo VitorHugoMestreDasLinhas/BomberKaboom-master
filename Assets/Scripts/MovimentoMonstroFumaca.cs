@@ -132,13 +132,13 @@ public class MovimentoMonstroFumaca : MonoBehaviour
             isImortal = true;
             AtivarSpriteInvulneravel();
             Debug.Log("Monstro Fumaça está imortal!");
-            yield return new WaitForSeconds(4f); // 4 segundos imortal
+            yield return new WaitForSeconds(5f); // 5 segundos imortal
 
             // Estado vulnerável
             isImortal = false;
             DesativarSpriteInvulneravel();
             Debug.Log("Monstro Fumaça não está mais imortal!");
-            yield return new WaitForSeconds(3f); // 3 segundos normal
+            yield return new WaitForSeconds(2f); // 2 segundos normal
         }
     }
 

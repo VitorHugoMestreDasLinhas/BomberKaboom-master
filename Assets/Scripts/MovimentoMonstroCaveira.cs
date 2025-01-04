@@ -7,6 +7,7 @@ public class MovimentoMonstroCaveira : MonoBehaviour
     public float velocidade = 4f;
     public float raioDeteccao = 5f; // Raio de detecção para perseguir o jogador
     public Transform jogador; // Referência ao jogador
+    public float distanciaRaycast = 1f; // Distância do raycast para verificar obstáculos
 
     private Rigidbody2D rb;
     private Vector2 direcao = Vector2.down;
@@ -58,6 +59,37 @@ public class MovimentoMonstroCaveira : MonoBehaviour
     {
         // Define a direção para perseguir o jogador
         direcao = (jogador.position - transform.position).normalized;
+
+        // Verifica se a direção escolhida está bloqueada por um obstáculo
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, direcao, distanciaRaycast);
+
+        if (hit.collider != null) // Se houver um obstáculo na frente
+        {
+            // Tentamos mudar para uma direção alternativa
+            TentarDirecaoAlternativa(direcao);
+        }
+    }
+
+    private void TentarDirecaoAlternativa(Vector2 direcaoOriginal)
+    {
+        // Tentamos mover para a esquerda, direita, para cima ou para baixo, em uma ordem fixa, para evitar que o monstro mude de direção aleatoriamente.
+        Vector2[] direcoesAlternativas = new Vector2[]
+        {
+            Vector2.up,
+            Vector2.down,
+            Vector2.left,
+            Vector2.right
+        };
+
+        foreach (var novaDirecao in direcoesAlternativas)
+        {
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, novaDirecao, distanciaRaycast);
+            if (hit.collider == null) // Se o caminho estiver livre nessa direção
+            {
+                direcao = novaDirecao; // Muda para essa direção
+                break;
+            }
+        }
     }
 
     private void Mover()

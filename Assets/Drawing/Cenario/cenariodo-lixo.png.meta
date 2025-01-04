@@ -1,0 +1,3977 @@
+fileFormatVersion: 2
+guid: 80140eb5888c54c449e6399bb6d815c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cenariodo-lixo_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ac5d5ecbe8ae34d96dd7ff25143378
+      internalID: -1115116610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7823d0ce4f5427f47b41db101b94ad49
+      internalID: 65543285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd704a97690cf41960f89e1907ffe1
+      internalID: -527783361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e90161277f06340899170c99cae2bd
+      internalID: -1730125693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51598492539bfb44cab0754fde6de767
+      internalID: 1779162997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cac02027c023f4fa826297a3aeb1ef
+      internalID: -1531466717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94b2c5644196404e8a67eafb6c34e54
+      internalID: -1368047114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e903d855dc18d418a477ebb4833812
+      internalID: -2092498910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0677c2113d1b4da0911cc28f23d47
+      internalID: -1628146357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe05d070877aa14479993103522aea20
+      internalID: 1178105677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528f3490df0e3d84aab9197f552aa672
+      internalID: 281575387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38029d39b0246bc44946337a6d8f4aa7
+      internalID: 759031134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8cf235a31732d4db1aef9571476a82
+      internalID: 2027233525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07e11c11a9feaf49bb1c4f3dd2290be
+      internalID: -1051677120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2385a1e8cf75d41be5ae500adb39f5
+      internalID: -1528907776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b9875d91d4a6b4792016b7596efe97
+      internalID: 1497834314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf9febd5421d0c4e870bb762705da7c
+      internalID: -1374027685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c3e84226b30d4aa90d8ee6df58fd4
+      internalID: 1592153685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4c3f9b416de34892405c86709f4b8
+      internalID: -181418626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88e0c09b4b2474ea3b23c22a2d9e11
+      internalID: 1542927887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce23c1dbcf6bfc4cafddac29b830200
+      internalID: 1772604839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18bf868f37499f43a76bb516c951671
+      internalID: -1613574206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c5901c2a446f4ebb7b656b7d843fa
+      internalID: -1434537510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5038bfd14a7a8134dbf570cea1529619
+      internalID: -2135423882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d7c777242ec74a9fc822b6d99c4aa
+      internalID: -457832268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 198
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acdb3beed6b0ac41a77b496b3036a95
+      internalID: 944329937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd80a890f5a8b1418a1bae97fd858a5
+      internalID: 461858562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ab38ade9247d1429742d39ac4a830e
+      internalID: 308713573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63637d0dca161d84db583337c4377061
+      internalID: -1490153561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad9d568ac76dc4aa7ebeacc7f47d7a
+      internalID: -1553134036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f45e06de0e4ec140bba9a78ffad1605
+      internalID: -734861332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c937e768ff37874e8477c37a74341be
+      internalID: -251034914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32420c515fcee6d4fbaa0d45a8656702
+      internalID: -726714821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8922f836aec33448abb180692a0838
+      internalID: -466988616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de34f5df5364c1548bec5f90a11443e2
+      internalID: 1586407614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92550bfdca1cbb947b37ea253f2c03d2
+      internalID: -1016114855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c9192ee84a054fa893448dec36744
+      internalID: -1434976035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d29243c68194a479a6cf3f04e589a1
+      internalID: 747798626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6005a214d9d78c740a80be310fc78cde
+      internalID: -1038688805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d760cee7a573914da55fc4c0e5809d7
+      internalID: -198197575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1439a909ee1fa8947b02024e416594cd
+      internalID: 1959811620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b61611a755a1b04d904d698bb942c4f
+      internalID: -1014995028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12a61dc6fcbe4842b7a84b3825c4382
+      internalID: 2014944712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e454d54e4b9bb8943a02a003a32df958
+      internalID: 343540255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d9965138e356a43818f8399805f455
+      internalID: -422794208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_45
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d79787311372498ce8dea18924976
+      internalID: 1462942741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f931bfe78dd1c0f49b2c232a537926a2
+      internalID: 1198111819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b958309b10b63494487f480f64013b96
+      internalID: -954385892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f8630923f2b64d84552e0eac65786
+      internalID: 1302047043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_49
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29ee6460a0fd5448178b08c8c2b218
+      internalID: -1358181230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10419a0cd1ac85c45b0439e800b44f5a
+      internalID: -1180248543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 166
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f6da2cfe507e4e8334f48ed6071f6
+      internalID: 822238810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6850c7da47fdd4e88e91728573c060
+      internalID: -778976128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574dae674f5cfce49997170be3ace6dd
+      internalID: -662544442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5286bccd9c51f44bbcd5b5550dbe3c
+      internalID: -2080942054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e37eba2a375a9e428e8048d63305768
+      internalID: 1116929435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2647cec06a5ca1c409b53a85941eb11f
+      internalID: -367697595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fb926dbdc188240a9557c6bfbfa5ca
+      internalID: 774359786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f6699a08bf4c40a0033b6e3e1773d
+      internalID: 332865879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4b9b2ef296ad843a9298a4eb4d95e7
+      internalID: 3505965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_60
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574ec436c2f8e34b9bf564333de7672
+      internalID: 126566846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_61
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48bb7c6cae6bbc42bd9b5cf8f27b7b4
+      internalID: -1761262353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_62
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763934d648452ec43b08671dd9c91275
+      internalID: -681286755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc64b14f63aba9b4f8e645cccc739f5b
+      internalID: 1772770885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f5910912d8fb34c9fdfb8ae89b1c63
+      internalID: -416124337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc0deafedcf0a4fb55bd5556e3a224
+      internalID: 974261334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e95562fce224f41b51b3386fe2b56e
+      internalID: -489443974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d17ce00afb844cac855f8bbe5f8bb
+      internalID: -559876675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802bc6a39f4a3a846ab5d0652f707ce0
+      internalID: -154780595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aa209a475dfe8419d1e10fd06bdaa8
+      internalID: -1092952738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01640920bdebee49b75439db8bf1ab4
+      internalID: 1117784266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_71
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa025a714cab0d48b75a1b80bc1b62c
+      internalID: -56750777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_72
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60ab0063d99454aac25f4d6887ffdd
+      internalID: -1590695867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_73
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df48166fc077b544fbd45dbe1fc3fbf3
+      internalID: 1908080999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_74
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6af4ca6ebeee24f84c4fa4ffa5daa6
+      internalID: 801824297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_75
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b149ea7b08e343a61b365217123d7
+      internalID: -576497582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_76
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b01cce5be6424793d8abea74da210
+      internalID: -1885922444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 134
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7c0f2cf87d2114da816de2bd78a9db
+      internalID: 1118883843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8307cfdfa917f047a1e2e905293880a
+      internalID: 652418399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05db6050bcea5224ca26af8fa157f56c
+      internalID: -1207023091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895f007cbc63664abb747e8ae8c6ab8
+      internalID: -919692878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4064ea342c70ab46ac9894f5333f36c
+      internalID: 2143575296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_82
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd4447a6088ac4882f9ce8bc65cc6a
+      internalID: 1761175809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8608ebd32f0b605418c8cba8bb953ea1
+      internalID: -1412436884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_84
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e09d70ab4dda8d4480a83fbd4e5ab37
+      internalID: -649424843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64207f3c61eb5b4a8fc79c6910828a6
+      internalID: 1507651093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_86
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03f2497829a4ed4cb19f671cd57876b
+      internalID: -2102355641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_87
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8963c322512254a92620a5fcb89b1f
+      internalID: -1099703314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_88
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ecb4e164c19cc4390cd34aeadb8aa8
+      internalID: -912871008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_89
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d21788f1ed57b249bafe9865efd20de
+      internalID: 291255633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_90
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b1281206d7be4d83c653edd7a6fe9
+      internalID: -2050815799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fed13023ef3814f94a3ae774db2532
+      internalID: -2091822896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4598b460b707242a77f3ce63cf77a7
+      internalID: 324361458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_93
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b41de03263d343bc520b354735038
+      internalID: 889935590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_94
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d4b72989a752a449b6f8d149fcb3a9
+      internalID: -1468595362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aead1fb89a8cf448f83d02a4cec28b
+      internalID: 1748974478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_96
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f293b498b20bb4ab648707c808299c
+      internalID: 419842283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_97
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4f3004fe2a23044ae0005215567a6d
+      internalID: 1992259685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_98
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96feea2006d3b34e8168387d52d6bfe
+      internalID: 411331229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_99
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc90b6c4a945f9842a9eb400e625fa8b
+      internalID: -108793390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_100
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2085c118516ae4ba2ec82ea2dba971
+      internalID: 1675114003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_101
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0996313a418696a49b15c4ef51249e09
+      internalID: -1267174404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_102
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19123759ef9704b49ad7e5f335b87a83
+      internalID: -67262651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_103
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e49ae82063b4d04b98fc2781e04e622
+      internalID: 1961813182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2b10dec2c415b42876ca18f477f44c
+      internalID: -1464753361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_105
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a311b85a9911441bb5fbcc8b9ae766
+      internalID: 1896501243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa37a5b01fc9a04486b7a107ea65bec
+      internalID: 2107282918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_107
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bfbb38afc939b4090a3ba9d7de2653
+      internalID: -2007097803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_108
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a69065a9ae530f4f8d20381370a1bb0
+      internalID: -1257607507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_109
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6479ec3f79969e6429f61b0575297f76
+      internalID: 1416077244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_110
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63597456e792f46498b005fdbefe26fa
+      internalID: 973625822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ddbc89155a08740b8d9fa9eb8292c1
+      internalID: 335073791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2be6cb4221bad4e8ef20ab0e14b32e
+      internalID: 1876719045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_113
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7628ae4c05e51c4691308b4be72fa05
+      internalID: -1012471184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_114
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39d572b32eaf64f89dc9f340ad2fda
+      internalID: -2105059220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_115
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a1890adadde12468a62a92281c8218
+      internalID: 510629172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_116
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 86
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315084346be476d4d9c8c4ef96434f1a
+      internalID: -1828685319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4493390e1bb22f043b82eb32e34d9930
+      internalID: -675435596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_118
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea94c1742ae084845ac1dd10267465e1
+      internalID: 550444207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_119
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f25a6e87331b4f8065d04dfb87a10
+      internalID: -875848405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_120
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bde03b2431a554086901fb07f6ecd7
+      internalID: 713173970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f47c7f073692144b1aaeaa07a42498
+      internalID: -1017873869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_122
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d060b6fe408f245a5090d3f073faef
+      internalID: 1427640031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_123
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde97a6e55db704a8727d8787eda489
+      internalID: 744191869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_124
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04debfda12b949c48a15e18353d8675e
+      internalID: 455699636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_125
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c832e110b8a95f4886a9aab64937861
+      internalID: 278500669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_126
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34fae1640b288041ac301f86a5bced3
+      internalID: -1814486752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_127
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceeccb4fd8a31b4a87002d3c42624e0
+      internalID: 2013491099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_128
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fedaa46158e9f41b0cbd5fb10e3194
+      internalID: 1693717440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_129
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5397a831232606745bf0909d85841b94
+      internalID: 1334584754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d369dbf6e91dbb044893e6941be03360
+      internalID: -71074846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_131
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7e5c1c8725bb42ad42068ff6503d3
+      internalID: 1911748985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_132
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936876ec5aa3a745a6d4df95367a517
+      internalID: 1976856789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_133
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6d6b72fd9ad09458add518350982b1
+      internalID: -1116984429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00928804b2ba94c94ae2e80c01f2cd
+      internalID: 206666270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_135
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f10b66ba84e004d917741851de8ad4
+      internalID: 511337878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_136
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af764dada34b0e4eb6666711f3b99f5
+      internalID: 1937483787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_137
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d7b33d586ddbe408c5a95fc38653a0
+      internalID: 314143133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_138
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6955a6fbf5e354998865257ec693de
+      internalID: -1717881321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_139
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9939d523b09993438fd39e40d4e63c6
+      internalID: 1374547351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_140
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed0235aa5e1665498f26d202a5d2f3d
+      internalID: -761708206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_141
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e594b491c8f4a49a7c12d1b5ec0c0d
+      internalID: -150140917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_142
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 54
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13811f4ff544c634eb224f14bc472bb7
+      internalID: 1981318271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_143
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a1135379d1c0e4cba5e3c2f3fe0d94
+      internalID: 1939173984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_144
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f3bd8295b43c34e98fd1f60f407cca
+      internalID: 789145049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_145
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52751121dabb1b47915df0d90e0f3cb
+      internalID: 65646564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_146
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4223a43e4980ed418ec2cd612952b40
+      internalID: 1752059027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_147
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc91a703aa5954042abb943bc24b346c
+      internalID: -279962137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_148
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee2964caa9d3748a09c72fa2879de2
+      internalID: 1585416592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_149
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2c62d171e99054dbf0b202ca4a370b
+      internalID: -616571902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_150
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3004b115ba0734fa2ef8f8350825c6
+      internalID: 1221907063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_151
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f9f14da349390458c976c965d41aa9
+      internalID: 760977818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_152
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96648b7c6a0630142abd6a2ce8c4e9b2
+      internalID: 1039797375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_153
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e23e8fcf86e3a4baea16dd440ebe26
+      internalID: 226775741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_154
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e6b609ed94bc54c91b3e3055a5cf05
+      internalID: 1357200344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_155
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb812b9cf2dae642bcf10ee83b21499
+      internalID: -1355375310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_156
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af6b45c315ab82429822987df5f3a9b
+      internalID: 1091688370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_157
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde1f6198d0ce14c8c2694fe73472b1
+      internalID: -1359039828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_158
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b3a380ebb718841be689c691f64d10
+      internalID: 1010000595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_159
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0e6ca98e028594583d89db29035250
+      internalID: -1549179169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_160
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ff83c3a12d75844bf167729daf381f
+      internalID: 844159336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_161
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7091ea38a5c63664cbd6892129747bcd
+      internalID: -1737438225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_162
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f55d4df9d89546b166b200870f0f4
+      internalID: 762608825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_163
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680d8451b630194fa68a3fc23797415
+      internalID: -1675746876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_164
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a2f055c7905a4590acd25a4e0484a
+      internalID: -1639152535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_165
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40c0960630c53d468bd0384699fd361
+      internalID: -348288788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_166
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2434696c247a4348a1ad0b0fe710500
+      internalID: -1336832777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_167
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca239ed886c7384eb6927a0ef6d6742
+      internalID: -1768583456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_168
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 22
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f6770d3eafbc2429dc12886641fbe7
+      internalID: 2023382500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_169
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b71b616ad0cb489d06a2c18646f34
+      internalID: -2016180024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_170
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 6
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d359589cb46514abd220a0c3267266
+      internalID: 1305360244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_171
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04692e993dbf142adabe660cf445e7
+      internalID: 1465976442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_172
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 6
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692d1bbd541ee8458c231ca5e8047a0
+      internalID: 235751632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_173
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 6
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e1bf513e62314baa8e51db59c6da1
+      internalID: -1576576268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenariodo-lixo_174
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ab58665fc106a4fad4885ce194a804
+      internalID: 1925649255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cenariodo-lixo_0: -1115116610
+      cenariodo-lixo_1: 65543285
+      cenariodo-lixo_10: 281575387
+      cenariodo-lixo_100: 1675114003
+      cenariodo-lixo_101: -1267174404
+      cenariodo-lixo_102: -67262651
+      cenariodo-lixo_103: 1961813182
+      cenariodo-lixo_104: -1464753361
+      cenariodo-lixo_105: 1896501243
+      cenariodo-lixo_106: 2107282918
+      cenariodo-lixo_107: -2007097803
+      cenariodo-lixo_108: -1257607507
+      cenariodo-lixo_109: 1416077244
+      cenariodo-lixo_11: 759031134
+      cenariodo-lixo_110: 973625822
+      cenariodo-lixo_111: 335073791
+      cenariodo-lixo_112: 1876719045
+      cenariodo-lixo_113: -1012471184
+      cenariodo-lixo_114: -2105059220
+      cenariodo-lixo_115: 510629172
+      cenariodo-lixo_116: -1828685319
+      cenariodo-lixo_117: -675435596
+      cenariodo-lixo_118: 550444207
+      cenariodo-lixo_119: -875848405
+      cenariodo-lixo_12: 2027233525
+      cenariodo-lixo_120: 713173970
+      cenariodo-lixo_121: -1017873869
+      cenariodo-lixo_122: 1427640031
+      cenariodo-lixo_123: 744191869
+      cenariodo-lixo_124: 455699636
+      cenariodo-lixo_125: 278500669
+      cenariodo-lixo_126: -1814486752
+      cenariodo-lixo_127: 2013491099
+      cenariodo-lixo_128: 1693717440
+      cenariodo-lixo_129: 1334584754
+      cenariodo-lixo_13: -1051677120
+      cenariodo-lixo_130: -71074846
+      cenariodo-lixo_131: 1911748985
+      cenariodo-lixo_132: 1976856789
+      cenariodo-lixo_133: -1116984429
+      cenariodo-lixo_134: 206666270
+      cenariodo-lixo_135: 511337878
+      cenariodo-lixo_136: 1937483787
+      cenariodo-lixo_137: 314143133
+      cenariodo-lixo_138: -1717881321
+      cenariodo-lixo_139: 1374547351
+      cenariodo-lixo_14: -1528907776
+      cenariodo-lixo_140: -761708206
+      cenariodo-lixo_141: -150140917
+      cenariodo-lixo_142: 1981318271
+      cenariodo-lixo_143: 1939173984
+      cenariodo-lixo_144: 789145049
+      cenariodo-lixo_145: 65646564
+      cenariodo-lixo_146: 1752059027
+      cenariodo-lixo_147: -279962137
+      cenariodo-lixo_148: 1585416592
+      cenariodo-lixo_149: -616571902
+      cenariodo-lixo_15: 1497834314
+      cenariodo-lixo_150: 1221907063
+      cenariodo-lixo_151: 760977818
+      cenariodo-lixo_152: 1039797375
+      cenariodo-lixo_153: 226775741
+      cenariodo-lixo_154: 1357200344
+      cenariodo-lixo_155: -1355375310
+      cenariodo-lixo_156: 1091688370
+      cenariodo-lixo_157: -1359039828
+      cenariodo-lixo_158: 1010000595
+      cenariodo-lixo_159: -1549179169
+      cenariodo-lixo_16: -1374027685
+      cenariodo-lixo_160: 844159336
+      cenariodo-lixo_161: -1737438225
+      cenariodo-lixo_162: 762608825
+      cenariodo-lixo_163: -1675746876
+      cenariodo-lixo_164: -1639152535
+      cenariodo-lixo_165: -348288788
+      cenariodo-lixo_166: -1336832777
+      cenariodo-lixo_167: -1768583456
+      cenariodo-lixo_168: 2023382500
+      cenariodo-lixo_169: -2016180024
+      cenariodo-lixo_17: 1592153685
+      cenariodo-lixo_170: 1305360244
+      cenariodo-lixo_171: 1465976442
+      cenariodo-lixo_172: 235751632
+      cenariodo-lixo_173: -1576576268
+      cenariodo-lixo_174: 1925649255
+      cenariodo-lixo_18: -181418626
+      cenariodo-lixo_19: 1542927887
+      cenariodo-lixo_2: -527783361
+      cenariodo-lixo_20: 1772604839
+      cenariodo-lixo_21: -1613574206
+      cenariodo-lixo_22: -1434537510
+      cenariodo-lixo_23: -2135423882
+      cenariodo-lixo_24: -457832268
+      cenariodo-lixo_25: 944329937
+      cenariodo-lixo_26: 461858562
+      cenariodo-lixo_27: 308713573
+      cenariodo-lixo_28: -1490153561
+      cenariodo-lixo_29: -1553134036
+      cenariodo-lixo_3: -1730125693
+      cenariodo-lixo_30: -734861332
+      cenariodo-lixo_31: -251034914
+      cenariodo-lixo_32: -726714821
+      cenariodo-lixo_33: -466988616
+      cenariodo-lixo_34: 1586407614
+      cenariodo-lixo_35: -1016114855
+      cenariodo-lixo_36: -1434976035
+      cenariodo-lixo_37: 747798626
+      cenariodo-lixo_38: -1038688805
+      cenariodo-lixo_39: -198197575
+      cenariodo-lixo_4: 1779162997
+      cenariodo-lixo_40: 1959811620
+      cenariodo-lixo_41: -1014995028
+      cenariodo-lixo_42: 2014944712
+      cenariodo-lixo_43: 343540255
+      cenariodo-lixo_44: -422794208
+      cenariodo-lixo_45: 1462942741
+      cenariodo-lixo_46: 1198111819
+      cenariodo-lixo_47: -954385892
+      cenariodo-lixo_48: 1302047043
+      cenariodo-lixo_49: -1358181230
+      cenariodo-lixo_5: -1531466717
+      cenariodo-lixo_50: -1180248543
+      cenariodo-lixo_51: 822238810
+      cenariodo-lixo_52: -778976128
+      cenariodo-lixo_53: -662544442
+      cenariodo-lixo_54: -2080942054
+      cenariodo-lixo_55: 1116929435
+      cenariodo-lixo_56: -367697595
+      cenariodo-lixo_57: 774359786
+      cenariodo-lixo_58: 332865879
+      cenariodo-lixo_59: 3505965
+      cenariodo-lixo_6: -1368047114
+      cenariodo-lixo_60: 126566846
+      cenariodo-lixo_61: -1761262353
+      cenariodo-lixo_62: -681286755
+      cenariodo-lixo_63: 1772770885
+      cenariodo-lixo_64: -416124337
+      cenariodo-lixo_65: 974261334
+      cenariodo-lixo_66: -489443974
+      cenariodo-lixo_67: -559876675
+      cenariodo-lixo_68: -154780595
+      cenariodo-lixo_69: -1092952738
+      cenariodo-lixo_7: -2092498910
+      cenariodo-lixo_70: 1117784266
+      cenariodo-lixo_71: -56750777
+      cenariodo-lixo_72: -1590695867
+      cenariodo-lixo_73: 1908080999
+      cenariodo-lixo_74: 801824297
+      cenariodo-lixo_75: -576497582
+      cenariodo-lixo_76: -1885922444
+      cenariodo-lixo_77: 1118883843
+      cenariodo-lixo_78: 652418399
+      cenariodo-lixo_79: -1207023091
+      cenariodo-lixo_8: -1628146357
+      cenariodo-lixo_80: -919692878
+      cenariodo-lixo_81: 2143575296
+      cenariodo-lixo_82: 1761175809
+      cenariodo-lixo_83: -1412436884
+      cenariodo-lixo_84: -649424843
+      cenariodo-lixo_85: 1507651093
+      cenariodo-lixo_86: -2102355641
+      cenariodo-lixo_87: -1099703314
+      cenariodo-lixo_88: -912871008
+      cenariodo-lixo_89: 291255633
+      cenariodo-lixo_9: 1178105677
+      cenariodo-lixo_90: -2050815799
+      cenariodo-lixo_91: -2091822896
+      cenariodo-lixo_92: 324361458
+      cenariodo-lixo_93: 889935590
+      cenariodo-lixo_94: -1468595362
+      cenariodo-lixo_95: 1748974478
+      cenariodo-lixo_96: 419842283
+      cenariodo-lixo_97: 1992259685
+      cenariodo-lixo_98: 411331229
+      cenariodo-lixo_99: -108793390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
