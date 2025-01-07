@@ -24,6 +24,9 @@ public class MovimentoMonstroDevorador : MonoBehaviour
     private float tempoTrocaDirecao = 1f; // Troca de direção a cada 1 segundo
     private float tempoAtualTroca = 0f;
 
+    private int contadorMonstroCoco = 0; // Contador de Monstros Coco gerados
+    public int limiteMonstroCoco = 2;   // Limite de Monstros Coco gerados
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -36,7 +39,6 @@ public class MovimentoMonstroDevorador : MonoBehaviour
 
     private void FixedUpdate()
     {
-        // Verifica se o jogador está dentro do raio de detecção
         if (jogador != null && Vector2.Distance(transform.position, jogador.position) <= raioDeteccao)
         {
             PerseguirJogador();
@@ -54,7 +56,7 @@ public class MovimentoMonstroDevorador : MonoBehaviour
         tempoAtualTroca += Time.fixedDeltaTime;
         if (tempoAtualTroca >= tempoTrocaDirecao)
         {
-            MudarDirecao(); // Muda a direção aleatoriamente a cada 1 segundo
+            MudarDirecao();
             tempoAtualTroca = 0f;
         }
     }
@@ -116,8 +118,6 @@ public class MovimentoMonstroDevorador : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Colidiu com: " + other.gameObject.name);
-
         if (other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
         {
             vidas--;
@@ -141,6 +141,8 @@ public class MovimentoMonstroDevorador : MonoBehaviour
         spriteRendererDeath.enabled = true;
 
         Debug.Log("Monstro Devorador morreu!");
+
+        CancelInvoke(nameof(SpawnMonstroCoco)); // Cancela a geração de Monstros Coco
         Invoke(nameof(OnDeathSequenceEnded), 1.25f);
     }
 
@@ -149,13 +151,21 @@ public class MovimentoMonstroDevorador : MonoBehaviour
         gameObject.SetActive(false);
     }
 
-    // Função para gerar o Monstro Coco
     private void SpawnMonstroCoco()
     {
-        if (monstroCocoPrefab != null && pontoSpawn != null)
+        if (contadorMonstroCoco < limiteMonstroCoco)
         {
-            Instantiate(monstroCocoPrefab, pontoSpawn.position, Quaternion.identity);
-            Debug.Log("Monstro Coco gerado!");
+            if (monstroCocoPrefab != null && pontoSpawn != null)
+            {
+                Instantiate(monstroCocoPrefab, pontoSpawn.position, Quaternion.identity);
+                contadorMonstroCoco++;
+                Debug.Log("Monstro Coco gerado! Total: " + contadorMonstroCoco);
+            }
+        }
+        else
+        {
+            Debug.Log("Limite de Monstros Coco alcançado. Não serão gerados mais.");
+            CancelInvoke(nameof(SpawnMonstroCoco));
         }
     }
 }

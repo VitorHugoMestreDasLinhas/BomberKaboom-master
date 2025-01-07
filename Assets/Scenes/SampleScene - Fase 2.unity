@@ -4860,6 +4860,7 @@ MonoBehaviour:
   velocidade: 2
   raioDeteccao: 5
   jogador: {fileID: 504425925}
+  distanciaRaycast: 1
   spriteRendererUp: {fileID: 1127221532}
   spriteRendererDown: {fileID: 935876469}
   spriteRendererLeft: {fileID: 1179538222}
@@ -5972,6 +5973,7 @@ MonoBehaviour:
   velocidade: 2
   raioDeteccao: 5
   jogador: {fileID: 504425925}
+  distanciaRaycast: 1
   spriteRendererUp: {fileID: 1428132322}
   spriteRendererDown: {fileID: 756505225}
   spriteRendererLeft: {fileID: 1047627688}
