@@ -5390,6 +5390,7 @@ MonoBehaviour:
   velocidade: 2
   raioDeteccao: 5
   jogador: {fileID: 504425925}
+  distanciaRaycast: 1
   spriteRendererUp: {fileID: 1127221532}
   spriteRendererDown: {fileID: 935876469}
   spriteRendererLeft: {fileID: 1179538222}
@@ -6502,6 +6503,7 @@ MonoBehaviour:
   velocidade: 2
   raioDeteccao: 5
   jogador: {fileID: 504425925}
+  distanciaRaycast: 1
   spriteRendererUp: {fileID: 1428132322}
   spriteRendererDown: {fileID: 756505225}
   spriteRendererLeft: {fileID: 1047627688}
@@ -9143,8 +9145,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 210, y: 0}
-  m_SizeDelta: {x: 52, y: 52}
+  m_AnchoredPosition: {x: 250, y: 0}
+  m_SizeDelta: {x: 104, y: 104}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1542626850
 MonoBehaviour:
@@ -9385,6 +9387,7 @@ MonoBehaviour:
   velocidade: 2
   raioDeteccao: 5
   jogador: {fileID: 504425925}
+  distanciaRaycast: 1
   spriteRendererUp: {fileID: 1267951334}
   spriteRendererDown: {fileID: 626235132}
   spriteRendererLeft: {fileID: 330658280}
