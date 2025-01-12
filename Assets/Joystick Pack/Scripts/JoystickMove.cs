@@ -160,9 +160,9 @@ public class JoystickMove : MonoBehaviour
     }
 
     // Função para avançar para a próxima fase
+    // Função para avançar para a próxima fase
     private void AvancarParaProximaFase()
     {
-        // Carregar a próxima cena ou reiniciar a atual, se desejar.
         int proximaCena = SceneManager.GetActiveScene().buildIndex + 1;
         if (SceneManager.sceneCountInBuildSettings > proximaCena)
         {
@@ -170,7 +170,9 @@ public class JoystickMove : MonoBehaviour
         }
         else
         {
-            Debug.Log("Última fase alcançada!");
+            Debug.Log("Última fase concluída! Retornando à tela inicial...");
+            SceneManager.LoadScene(0); // Retorna para a tela inicial (index 0)
         }
     }
+
 }
